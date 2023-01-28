@@ -11,11 +11,11 @@ Ending: If a ghost comes close to the bottom side of the screen.
 
 ![Main Game](https://user-images.githubusercontent.com/121832450/215284017-f574c520-10b5-478d-9738-31902fd36bf3.png)
 
-<h2> Near the End of The Game </h2>(Because the ghosts are close to the bottom)<br>
+<br><h2> Near the End of The Game </h2>(Because the ghosts are close to the bottom)<br>
 
 ![Near The End](https://user-images.githubusercontent.com/121832450/215284088-b56322a0-6257-441f-b6cd-bcd4a5c6d960.png)
 
-<h2> The End of The Game(GAME OVER text)</h2><br>
+<br><h2> The End of The Game(GAME OVER text)</h2><br>
 
 ![Game Over Text](https://user-images.githubusercontent.com/121832450/215284124-96c6309d-61be-4605-a23e-976975ae6f74.png)
 
