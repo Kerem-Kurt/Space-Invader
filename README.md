@@ -1,5 +1,5 @@
 # Space-Invader
-Basic version of Space Invaders game
+<b><< Run main.py it just works. >></b>
 
 Gameplay:<br>
 Spacehip: Game is played with three keys "left arrow key", "right arrow key", and "spacebar". Right and left arrow keys are used to move our spaceship right and left, space is used for shooting our bullets.<br><br>
